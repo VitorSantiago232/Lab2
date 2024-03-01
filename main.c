@@ -1,6 +1,7 @@
+#include "teste.h"
 #include <stdio.h>
 
 int main(void) {
-  printf("Hello World\n");
-  return 1;
+  printf("Hello World!\n");
+  return 0;
 }
